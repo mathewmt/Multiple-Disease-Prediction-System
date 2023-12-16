@@ -5,6 +5,7 @@
 # _**Multiple Disease Prediction System**_
 A Multiple Disease Prediction System is a sophisticated and innovative application designed to enhance early detection and prediction of various diseases. This system integrates advanced data analytics and machine learning algorithms to analyze diverse sets of medical data, including patient health records, genetic information, lifestyle factors, and environmental influences. By processing this extensive dataset, the system can identify patterns and correlations that may be indicative of different diseases. This predictive capability enables healthcare professionals to anticipate the likelihood of multiple diseases in an individual, facilitating timely intervention and personalized healthcare plans.
 
+# _** the dataset is saved on sav formate 
 
 # _**How to Execute?**_
 So, before execution we have some pre-requisites that we need to download or install i.e., anaconda environment, python and a code editor.
