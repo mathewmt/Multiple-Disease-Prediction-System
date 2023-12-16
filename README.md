@@ -1,6 +1,6 @@
 # Multiple-Disease-Prediction-System
 
-[Disease](https://i.pinimg.com/originals/da/20/d3/da20d31c5ad96fa2681af750a9d27309.gif)
+
 
 # _**Multiple Disease Prediction System**_
 A Multiple Disease Prediction System is a sophisticated and innovative application designed to enhance early detection and prediction of various diseases. This system integrates advanced data analytics and machine learning algorithms to analyze diverse sets of medical data, including patient health records, genetic information, lifestyle factors, and environmental influences. By processing this extensive dataset, the system can identify patterns and correlations that may be indicative of different diseases. This predictive capability enables healthcare professionals to anticipate the likelihood of multiple diseases in an individual, facilitating timely intervention and personalized healthcare plans.
@@ -12,7 +12,6 @@ So, before execution we have some pre-requisites that we need to download or ins
 
 **Download link:**
 
-![Anaconda](https://1.bp.blogspot.com/-UJ1Ws2zZ9V4/TtMbG2ynJiI/AAAAAAAABbM/m6t2kuEhKdY/s1600/The-biggest-anaconda-snake-3.jpg)
 
 https://www.anaconda.com/
 
@@ -20,7 +19,6 @@ https://www.anaconda.com/
 
 **Download link:**
 
-![Python](https://i0.wp.com/reptileworldfacts.com/wp-content/uploads/2019/05/male-blonde-super-tiger-reticulated-python.jpg?resize=351%2C351&ssl=1)
 
 https://www.python.org/downloads/
 
@@ -28,7 +26,7 @@ https://www.python.org/downloads/
 
 **Download links:**
 
-![Vs code](https://schwabencode.com/contents/logos/VS2019-Badge.png) ![Pycharm](https://i0.wp.com/scracked.com/wp-content/uploads/2020/01/PyCharm-2019.3.4-Crack.png?fit=200%2C200&ssl=1)
+
 
 + https://code.visualstudio.com/Download, 
 + https://www.jetbrains.com/pycharm/download/#section=windows
@@ -61,7 +59,7 @@ So, to solve it it we have 2 commands.
 2.	conda install –c anaconda python
 Now you are ready to use jupyter on this environment and start with your project!
 
-![thanks](https://media1.tenor.com/images/11ae4fcfc41bb9e66a0176fcfc38e695/tenor.gif?itemid=8486985)
+
   
   
 # _**Steps to execute**_
@@ -80,7 +78,7 @@ Now you are ready to use jupyter on this environment and start with your project
 # _**Data Description**_
 This dataset will help you apply your existing knowledge to great use. Applying Knowledge to field of Medical Science and making the task of Physician easy is the main purpose of this dataset. This dataset has 132 parameters on which 42 different types of diseases can be predicted.Complete Dataset consists of 3 CSV files . One of them is training and other is for testing your model. Each CSV file has 133 columns. 132 of these columns are symptoms that a person experiences and last column is the prognosis. You are required to train your model on training data and test it on testing data.
 
-![Disease](https://user-images.githubusercontent.com/98437584/236606251-b40e37c2-aa6d-4b8e-86f1-b6402a7856d0.png)
+
 
  # _**Issues Faced.**_
 1. We might face an issue while installing specific libraries.
